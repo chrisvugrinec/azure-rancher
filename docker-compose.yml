@@ -1,0 +1,2 @@
+web:
+  image: cvugrinec/java-webapp-redisdemo:1.6
